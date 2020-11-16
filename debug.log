@@ -2,3 +2,15 @@
 [0930/055809.446:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
 [0930/055809.606:ERROR:exception_snapshot_win.cc(99)] thread ID 6476 not found in process
 [0930/055809.606:ERROR:exception_snapshot_win.cc(99)] thread ID 9304 not found in process
+[0930/093850.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0930/093850.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0930/093850.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0930/093850.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0930/093850.985:ERROR:exception_snapshot_win.cc(99)] thread ID 6568 not found in process
+[0930/093850.985:ERROR:exception_snapshot_win.cc(99)] thread ID 9604 not found in process
+[0930/093850.985:ERROR:exception_snapshot_win.cc(99)] thread ID 7808 not found in process
+[0930/093850.985:ERROR:exception_snapshot_win.cc(99)] thread ID 10432 not found in process
+[0930/093850.985:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0930/093850.985:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0930/093850.985:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0930/093850.985:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)

@@ -1,8 +1,9 @@
 import { StyleSheet } from "react-native";
+
 let primaryColor = "#000";
 let secondaryColor = "#fff";
 let accentColor = "#f7287b";
-let highLight = "c717fc";
+let highLight = "#c717fc";
 
 const styles = StyleSheet.create({
   screen: {
@@ -48,6 +49,13 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingHorizontal: 15,
   },
+  buttonContainer2: {
+    flexDirection: "row",
+    justifyContent: "space-around",
+    marginTop: 20,
+    width: 300,
+    maxWidth: "80%",
+  },
   btn: {
     width: 100,
   },
@@ -60,6 +68,23 @@ const styles = StyleSheet.create({
   input: {
     width: 50,
     textAlign: "center",
+  },
+  sumaryContainer: {
+    marginTop: 20,
+    alignItems: "center",
+  },
+  container: {
+    borderWidth: 2,
+    borderColor: accentColor,
+    padding: 10,
+    borderRadius: 10,
+    marginVertical: 10,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  Number: {
+    color: accentColor,
+    fontSize: 22,
   },
 });
 
